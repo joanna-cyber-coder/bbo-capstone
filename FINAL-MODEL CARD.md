@@ -1,7 +1,11 @@
 Final - Model Card
+
 Basic Details
+
 Model Name: Gaussian Process Black-Box Optimizer (GP-BBO)
+
 Version: 2.0 (Post-Week 9 Global Re-aggregation Update)
+
 Description: A custom sequential optimization loop built to navigate unknown, continuous multi-dimensional landscapes without gradient information. It utilises a Gaussian Process to construct a probability distribution over the target space and uses an Expected Improvement loop to recommend the next best coordinate configurations.
 Developer Contacts: Student Machine Learning Developer (University Repository Maintainer)
 Licensing: Open Educational Use License. The underlying baseline arrays remain subject to institutional academic integrity and non-distribution guidelines.
