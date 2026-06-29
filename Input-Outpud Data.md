@@ -1,4 +1,5 @@
 Input/Outpud Data
+
 Week 1 input values:
 Function 1:	[0.684321, 0.712345]
 Function 2:	[0.720000, 0.950000]
